@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:07111F,45:102A43,100:00D9FF&text=PRAVEENA%20LOGANATHAN&fontColor=EAFBFF&fontSize=36&fontAlignY=42&desc=FULL-STACK%20DEVELOPER%20%7C%20AI%2FML%20EXPLORER&descAlignY=62&descSize=13&animation=fadeIn" width="100%" alt="Praveena Loganathan — Full-Stack Developer and AI/ML Explorer" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:07111F,45:102A43,100:00D9FF&text=PRAVEENA%20L&fontColor=EAFBFF&fontSize=36&fontAlignY=42&desc=FULL-STACK%20DEVELOPER%20%7C%20AI%2FML%20EXPLORER&descAlignY=62&descSize=13&animation=fadeIn" width="100%" alt="Praveena L — Full-Stack Developer and AI/ML Explorer" />
 
 <br/>
 
